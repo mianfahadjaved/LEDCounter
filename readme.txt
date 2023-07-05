@@ -1,4 +1,4 @@
-This is a Library for four LED lights such that each LED light represents one bit of a four bit binary Number. The library provides different methods which can be applied for different functionality.
+This is an Arduino Library for four LED lights such that each LED light represents one bit of a four bit binary Number. The library provides different methods which can be applied for different functionality.
 
 Following are the methods of this library:
 
